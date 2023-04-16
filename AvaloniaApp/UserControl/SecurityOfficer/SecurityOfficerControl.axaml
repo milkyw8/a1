@@ -1,0 +1,158 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApp.UserControl.SecurityOfficer.SecurityOfficerControl">
+    <Grid RowDefinitions="50, *, 25">
+        <DockPanel Grid.Row="0" Margin="10">
+            <Label Content="Сотрудник ИБ" FontSize="18" FontWeight="Bold" />
+            <Button Content="Выход" Name="BtnExit" Click="BtnExit_OnClick" HorizontalAlignment="Right" TabIndex="2" />
+        </DockPanel>
+        <DockPanel Grid.Row="1"
+                   HorizontalAlignment="Right"
+                   Margin="10">
+            <Label
+                Name="LblFioUser"
+                Content="ФИО Сотрудника" />
+        </DockPanel>
+        <StackPanel Grid.Row="1">
+            <TabControl>
+                <TabItem Name="TbVerify" FontSize="14" TabIndex="0">
+                    <TabItem.Header>
+                        <StackPanel>
+                            <Label Content="Верификация" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <TabItem.Content>
+                        <DataGrid
+                            Name="DgUserVerification"
+                            IsReadOnly="True"
+                            AutoGenerateColumns="False"
+                            RowBackground="White"
+                            AlternatingRowBackground="LightBlue"
+                            CanUserResizeColumns="True">
+        
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Id" Width="*" Binding="{Binding Id}" />
+                                <DataGridTextColumn Header="Имя" Width="*" Binding="{Binding Person.Firstname}" />
+                                <DataGridTextColumn Header="Фамилия" Width="*" Binding="{Binding Person.Lastname}" />
+                                <DataGridTextColumn Header="Отчество" Width="*" Binding="{Binding Person.Patronymic}" />
+                                <DataGridTextColumn Header="Должность" Width="*" Binding="{Binding Employee.Position}" />
+                                
+                                <DataGridTemplateColumn Header="Роль" Width="*">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <ComboBox
+                                                HorizontalAlignment="Center">
+                                                <ComboBoxItem>Пользователь</ComboBoxItem>
+                                                <ComboBoxItem>Администтратор доступа</ComboBoxItem>
+                                                <ComboBoxItem>Сотрудник общего отдела</ComboBoxItem>
+                                                <ComboBoxItem>Сотрудник подразделения</ComboBoxItem>
+                                                <ComboBoxItem>Охранник</ComboBoxItem>
+                                                <ComboBoxItem>Специалист по ИБ</ComboBoxItem>
+                                            </ComboBox>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                    
+                                </DataGridTemplateColumn>
+                                <DataGridTextColumn Header="Логин" Width="*" Binding="{Binding User.Login}" />
+                                <DataGridTextColumn Header="Пароль" Width="*" Binding="{Binding User.Password}" />
+                                <DataGridTextColumn Header="Секретное слово" Width="*"
+                                                    Binding="{Binding User.SecretWord}" />
+        
+                                <DataGridTemplateColumn Header="Одобрить" Width="*">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox
+                                                Name="ChkbxAccountVerify"
+                                                HorizontalAlignment="Center" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+
+                                <DataGridTemplateColumn>
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button
+                                                Name="BtnSaveVerify"
+                                                Content="Сохранить"
+                                                Click="BtnSaveVerify_OnClick" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+        
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </TabItem.Content>
+                </TabItem>
+                
+                <TabItem Name="TbMandatAccess" FontSize="14" TabIndex="0">
+                    <TabItem.Header>
+                        <StackPanel>
+                            <Label Content="Мондаты доступа" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <TabItem.Content>
+                        <DataGrid
+                            Name="DgPositionRule"
+                            AutoGenerateColumns="False"
+                            IsReadOnly="True"
+                            RowBackground="White"
+                            AlternatingRowBackground="LightBlue"
+                            CanUserResizeColumns="True">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Id" Width="*" Binding="{Binding Id}" />
+                                <DataGridTextColumn Header="Имя" Width="*" Binding="{Binding Person.Firstname}" />
+                                <DataGridTextColumn Header="Фамилия" Width="*" Binding="{Binding Person.Lastname}" />
+                                <DataGridTextColumn Header="Отчестов" Width="*" Binding="{Binding Person.Patronymic}" />
+                                <DataGridTextColumn Header="Должность" Width="*"
+                                                    Binding="{Binding Employee.Position.Name}" />
+        
+                                <DataGridTemplateColumn Header="Добавление данных">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox
+                                                Name="ChkbxAddData"
+                                                HorizontalAlignment="Center" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                
+                                <DataGridTemplateColumn Header="Редактирование данных">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox HorizontalAlignment="Center" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                
+                                <DataGridTemplateColumn Header="Формирование отчествов">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox HorizontalAlignment="Center" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                
+                                <DataGridTemplateColumn>
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button
+                                                Name="BtnSaveMandate"
+                                                Content="Сохранить"
+                                                Click="BtnSaveMandate_OnClick" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </TabItem.Content>
+                </TabItem>
+            </TabControl>
+        
+        </StackPanel>
+        
+    </Grid>
+</UserControl>

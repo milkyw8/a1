@@ -1,0 +1,72 @@
+is_global = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AvaloniaApp
+build_property.ProjectDir = /home/master/РЧ/AvaloniaApp/AvaloniaApp/
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/AppWindow/Employee/AddBlackList.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/AppWindow/EmployeeGeneral/CheckVisitor.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/AppWindow/SecurityGuard/AllowAccess.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/Admin/AdminControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/AuthControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/Employee/EmployeeMain.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/EmployeeGeneral/EmployeeGeneralMain.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/SecurityGuard/SecurityGuardMain.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/SecurityOfficer/SecurityOfficerControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/ChooseVisitType.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/RegistrationUser.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/RequestUserGroup.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/RequestUserPersonal.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/SignUpUser.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/UserProfile/UserProfileMain.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/VisitType/GroupVisitControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/master/РЧ/AvaloniaApp/AvaloniaApp/UserControl/User/VisitType/PersonalVisitControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj": {}
+  },
+  "projects": {
+    "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+        "projectName": "SF2022UserNNLib",
+        "projectPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+        "packagesPath": "/home/master/.nuget/packages/",
+        "outputPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/master/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.4, 7.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.4, 7.0.4]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

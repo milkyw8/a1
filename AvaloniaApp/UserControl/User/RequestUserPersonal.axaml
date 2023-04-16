@@ -1,0 +1,189 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="10050"
+             x:Class="AvaloniaApp.UserControl.User.RequestUserPersonal">
+    
+    <Grid RowDefinitions="50, *, 25">
+        <StackPanel>
+            <Button Name="BtnBack" Content="Назад" Click="BtnBack_OnClick" />
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Label
+                Content="Форма записи на посещение мероприятия"
+                FontSize="20"
+                HorizontalAlignment="Center" />
+            <DockPanel Margin="10">
+                <Border
+                    BorderBrush="Gray"
+                    BorderThickness="1"
+                    CornerRadius="5">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label
+                                HorizontalAlignment="Center"
+                                Content="Информация для пропуска"
+                                FontWeight="Bold"
+                                FontSize="14" />
+                        </StackPanel>
+
+                        <StackPanel Margin="10">
+                            <Label Content="Срок действия заявки:" />
+                            <DockPanel>
+                                <TextBlock Text="с*" />
+                                <CalendarDatePicker Name="CdpValidFrom" />
+                                <TextBlock Text="до" />
+                                <CalendarDatePicker Name="CdpValidUntil" />
+                            </DockPanel>
+                            <ComboBox
+                                Name="CmbTargetVisit"
+                                PlaceholderText="Цель посещения"
+                                Margin="0 10 0 0 " />
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+
+                <Border
+                    BorderBrush="Gray"
+                    BorderThickness="1"
+                    CornerRadius="5"
+                    Margin="10 0 0 0 ">
+                    <StackPanel>
+                        <StackPanel
+                            Background="Orange">
+                            <Label
+                                HorizontalAlignment="Center"
+                                Content="Принимающая сторона"
+                                FontWeight="Bold"
+                                FontSize="14" />
+                        </StackPanel>
+
+                        <StackPanel Margin="10">
+                            <ComboBox Name="CmbSubdivision" PlaceholderText="Подразделение" Width="300"
+                                      SelectionChanged="CmbSubdivision_OnSelectionChanged" />
+                            <StackPanel Margin="0 10 0 0 " HorizontalAlignment="Left">
+                                <TextBlock Text="Ф.И.О" />
+                                <TextBox Name="TxbFioEmployee" Width="300" IsReadOnly="True" />
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </DockPanel>
+
+            <Border 
+                BorderBrush="Gray"
+                BorderThickness="1"
+                CornerRadius="5"
+                Margin="10"
+                HorizontalAlignment="Stretch">
+                <StackPanel>
+                    <StackPanel Background="Orange">
+                        <Label
+                            Content="Информаци о поскетителе"
+                            FontSize="14"
+                            HorizontalAlignment="Center"
+                            FontWeight="Bold" />
+                    </StackPanel>
+
+                    <StackPanel Margin="10"
+                                HorizontalAlignment="Stretch"
+                                Orientation="Horizontal"
+                                MaxWidth="1920">
+                        <StackPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Фамилия*:" />
+                                <TextBox Name="TxbLastname" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Имя*:" />
+                                <TextBox Name="TxbFirstname" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Отчество*:" />
+                                <TextBox Name="TxbPatronymic" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Телефон:" />
+                                <TextBox Name="TxbPhone" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="E-mail:" />
+                                <TextBox Name="TxbEmail" />
+                            </DockPanel>
+                        </StackPanel>
+
+                        <StackPanel
+                            Margin="10 0 0 0 "
+                            HorizontalAlignment="Stretch">
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Организация*:" />
+                                <TextBox Name="TxbOrganization" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Примечание:" />
+                                <TextBox Name="TxbComment" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Дата рождения:" />
+                                <CalendarDatePicker Name="CdpBirthday" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Паспорт серия:" />
+                                <TextBox Name="TxbPasportSeries" />
+                            </DockPanel>
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="Паспорт номер:" />
+                                <TextBox Name="TxbPasportNumber" />
+                            </DockPanel>
+                        </StackPanel>
+
+                        <StackPanel
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Right"
+                            Margin="10 0 0 0 ">
+                            <Image Source="/Assets/User.jpg"
+                                   MinWidth="100" MaxWidth="200"
+                                   MinHeight="100" MaxHeight="200" />
+                            <Button Name="BtnLoadPhoto"
+                                    Content="Загрузить фото"
+                                    HorizontalAlignment="Center" />
+                        </StackPanel>
+                    </StackPanel>
+                    
+                </StackPanel>
+            </Border>
+
+            <DockPanel Margin="10">
+                <Border
+                    BorderBrush="Gray"
+                    BorderThickness="1"
+                    CornerRadius="5">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label
+                                Content="Прикрепляемые документы"
+                                FontWeight="Bold"
+                                FontSize="14"
+                                HorizontalAlignment="Center" />
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Center">
+                            <Button>
+                                <Label Content="Прикрепить файл" />
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+
+                <DockPanel Margin="10 0 0 0 ">
+                    <Button Name="BtnClearForm" Content="Очиститть форму" Click="BtnClearForm_OnClick" />
+                    <Button Name="BtnSaveRequest" Classes="btnSave"
+                            Margin="10 0 0  0 " Click="BtnSaveRequest_OnClick" />
+
+                </DockPanel>
+            </DockPanel>
+            
+            
+        </StackPanel>
+    </Grid>
+</UserControl>

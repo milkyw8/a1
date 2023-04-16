@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fmaster_002F_0420_0427_002FAvaloniaApp_002FSF2022UserNNLib_002Fbin_002FDebug_002Fnet7_002E0_002FSF2022UserNNLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/home/master/.nuget/packages/avalonia/0.10.18/lib/netcoreapp2.0/Avalonia.Controls.dll" /&gt;
+  &lt;Assembly Path="/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/bin/Debug/net7.0/SF2022UserNNLib.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47646b02_002D46ec_002D4505_002D86ef_002D4b604893c3ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;LibaryTesting&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/master/РЧ/AvaloniaApp/LibaryTesting" Presentation="&amp;lt;LibaryTesting&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

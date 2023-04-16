@@ -1,0 +1,52 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="700" d:DesignHeight="500"
+        x:Class="AvaloniaApp.AppWindow.EmployeeGeneral.CheckVisitor"
+
+        Width="700"
+        Height="500"
+        Title="Проверка заявки"
+        CanResize="False">
+    <Grid>
+        <StackPanel Margin="10">
+            <StackPanel>
+                <DockPanel>
+                    <TextBlock Text="Имя:" FontWeight="Bold" />
+                    <TextBlock Name="TxbFirstname" Margin="10 0 0 0 " />
+                </DockPanel>
+                <DockPanel>
+                    <TextBlock Text="Фамилия:" FontWeight="Bold" />
+                    <TextBlock Name="TxbLastname" Margin="10 0 0   0" />
+                </DockPanel>
+                <DockPanel>
+                    <TextBlock Text="Отчество:" FontWeight="Bold" />
+                    <TextBlock Name="TxbPatronymic" Margin="10 0 0 0 " />
+                </DockPanel>
+                <DockPanel>
+                    <TextBlock Text="Номер паспорта:" FontWeight="Bold" />
+                    <TextBlock Name="TxbPasportSeries" Margin="10 0 0 0 " />
+                </DockPanel>
+                <DockPanel>
+                    <TextBlock Text="Серия паспорта:" FontWeight="Bold" />
+                    <TextBlock Name="TxbPasportNumber" Margin="10 0 0 0 " />
+                </DockPanel>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Дата посещения" />
+                <DatePicker Name="DtDateVisit" />
+                <Label Content="Время посещения" />
+                <TimePicker Name="TpTimeVisit" />
+            </StackPanel>
+            <DockPanel Margin="0 10 0 0 ">
+                <TextBlock Text="Статус зявки: " FontWeight="Bold" />
+                <TextBlock Name="TxtbRequestStatus" Text="Текущий статус" />
+            </DockPanel>
+            <DockPanel Margin="0 20 0 0 ">
+                <Button Name="BtnRejectRequest" Content="Отклонить" Click="BtnRejectRequest_OnClick" />
+                <Button Name="BtnSaveDt" Content="Разрешить" Click="BtnSaveDt_OnClick" Margin="10 0 0 0 " />
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>

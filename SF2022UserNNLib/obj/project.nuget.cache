@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zu2RU48TkU6xs8x+23lRTeOoPnBC8kkk2jgfi//H9mMOeVFIgE47MpMxBTOMHkIxjTikpxmoDHsQyPDnVRePEA==",
+  "success": true,
+  "projectFilePath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+  "expectedPackageFiles": [
+    "/home/master/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/master/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

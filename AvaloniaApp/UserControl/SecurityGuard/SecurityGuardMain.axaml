@@ -1,0 +1,114 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="950" d:DesignHeight="450"
+             x:Class="AvaloniaApp.UserControl.SecurityGuard.SecurityGuardMain">
+    <Grid>
+        <StackPanel>
+            <DockPanel Margin="10">
+                <Label
+                    Foreground="Black"
+                    FontSize="20"
+                    FontWeight="Bold">
+                    Терминал охранника
+                </Label>
+                <Button
+                    Content="Выход"
+                    Name="BtnSignOut"
+                    HorizontalAlignment="Right"
+                    Click="BtnSignOut_OnClick" />
+            </DockPanel>
+
+            <StackPanel
+                Margin="10 10 0 0 "
+                Orientation="Horizontal">
+                <DatePicker
+                    Name="DpDateRequest" />
+                <ComboBox Margin="10 0 0 0"
+                          Name="CmbTypeVisit"
+                          Width="150"
+                          PlaceholderText="Тип заявки">
+                </ComboBox>
+                <ComboBox Margin="10 0 0 0"
+                          Name="CmbSubdivision"
+                          Width="180"
+                          PlaceholderText="Тип подразделения">
+                </ComboBox>
+                <Button Margin="10 0 0 0 "
+                        Name="BtnCancelFilter"
+                        Content="Отмена фильтра"
+                        Click="BtnCancelFilter_OnClick" />
+            </StackPanel>
+
+            <StackPanel
+                Margin="10 10 0 0"
+                Orientation="Horizontal"
+                HorizontalAlignment="Left"
+                MaxWidth="600">
+                <TextBox
+                    Watermark="Поиск"
+                    Name="TxbSearch"
+                    Width="860"
+                    MaxWidth="860" />
+                <Button
+                    Content="Найти"
+                    Name="BtnSearch"
+                    Margin="10 0 0 0"
+                    Click="BtnSearch_OnClick" />
+            </StackPanel>
+
+            <DataGrid
+                Name="VisitUserList"
+                AutoGenerateColumns="False"
+                RowBackground="White"
+                AlternatingRowBackground="LightBlue"
+                IsReadOnly="True"
+                Margin=" 0, 10, 0, 0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Width="*"
+                                        Binding="{Binding Id}" />
+                    <DataGridTextColumn Header="Огранизация" Width="*"
+                                        Binding="{Binding Organization}" />
+                    <DataGridTextColumn Header="Имя" Width="*"
+                                        Binding="{Binding Person.Firstname}" />
+                    <DataGridTextColumn Header="Фамилия" Width="*"
+                                        Binding="{Binding Person.Lastname}" />
+                    <DataGridTextColumn Header="Отчетство" Width="*"
+                                        Binding="{Binding Person.Patronymic}" />
+                    <DataGridTextColumn Header="Телефон" Width="*"
+                                        Binding="{Binding Person.Phone}" />
+                    <DataGridTextColumn Header="Email" Width="*"
+                                        Binding="{Binding Person.Email}" />
+                    <DataGridTextColumn Header="Дата рождения" Width="*"
+                                        Binding="{Binding Person.DateBirthday}" />
+                    <DataGridTextColumn Header="Паспорт серия" Width="*"
+                                        Binding="{Binding Person.PassportSeries}" />
+                    <DataGridTextColumn Header="Паспорт номер" Width="*"
+                                        Binding="{Binding Person.PassportNumber}" />
+                    <DataGridTextColumn Header="Тип посещения" Width="*" 
+                                        Binding="{Binding TypeVisit}" />
+                    <DataGridTextColumn Header="Дата запроса " Width="*" 
+                                        Binding="{Binding DateRequest}" />
+                    <DataGridTextColumn Header="Подразделение " Width="*" 
+                                        Binding="{Binding Employee.Subdivision}" />
+                    
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button
+                                    Name="BtnInfoUser"
+                                    Click="BtnInfoUser_OnClick"
+                                    Content="Доступ" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+                
+            </DataGrid>
+            <StackPanel VerticalAlignment="Center" Margin="10">
+                <Label Foreground="White" FontSize="16" Name="LblUserFio" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,24 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="AvaloniaApp.App">
+
+    <Application.Styles>
+        <FluentTheme Mode="Light"/>
+        <StyleInclude Source="avares://Avalonia.Controls.DataGrid/Themes/Default.xaml" />
+
+        <Style Selector="Button.btnSave">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="BorderThickness" Value="1.5" />
+            <Setter Property="BorderBrush" Value="Orange" />
+            <Setter Property="Content" Value="Сохранить" />
+        </Style>
+
+        <Style Selector="Button.btnSave:pointerover /template/ContentPresenter">
+            <Setter Property="Background" Value="orange" />
+        </Style>
+        
+        
+    </Application.Styles>
+    
+   
+</Application>

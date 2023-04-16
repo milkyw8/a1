@@ -1,0 +1,68 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApp.UserControl.User.ChooseVisitType">
+    <Grid RowDefinitions="50, *, 10">
+
+        <DockPanel Grid.Row="0"
+                   Margin="10">
+            <Label
+                Content="Терминал пользователя"
+                HorizontalAlignment="Left"
+                FontSize="18"
+                FontWeight="Bold" />
+            <DockPanel HorizontalAlignment="Right">
+                <Button Name="BtnRegistrationUser"
+                        Content="Зарегистрироваться"
+                        Click="BtnRegistrationUser_OnClick" />
+                <Button Name="BtnSignUpUser"
+                        Content="Войти"
+                        Click="BtnSignUpUser_OnClick"
+                        Margin="10 0 0 0 " />
+                <Button Name="BtnChoseOtherRole"
+                        Content="Сменить роль"
+                        Click="BtnChoseOtherRole_OnClick"
+                        Margin="10 0 0 0" />
+            </DockPanel>
+        </DockPanel>
+
+        <DockPanel Grid.Row="1"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center">
+            <Button
+                Width="300"
+                Height="300"
+                Name="BtnPersonalVisit"
+                Click="BtnPersonalVisit_OnClick">
+                <StackPanel>
+                    <Image Source="/Assets/User.jpg" Width="250" Height="250" />
+                    <TextBlock
+                        Text="Персональное посещение"
+                        FontSize="16"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button
+                Width="300"
+                Height="300"
+                Margin="20 0 0 0 "
+                Name="BtnGroupVisit"
+                Click="BtnGroupVisit_OnClick">
+                <StackPanel>
+                    <Image Source="/Assets/User.jpg" Width="250" Height="250" />
+                    <TextBlock
+                        Text="Групповое посещение"
+                        FontSize="16"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+        </DockPanel>
+
+    </Grid>
+</UserControl>

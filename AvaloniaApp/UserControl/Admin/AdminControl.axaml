@@ -1,0 +1,54 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApp.UserControl.Admin.AdminControl">
+    <Grid RowDefinitions="50, *, 25">
+
+        <DockPanel Margin="10" Grid.Row="0">
+                <Label Content="Администратор доступа" FontSize="18" FontWeight="Bold" Foreground="Black" />
+                <Button Name="BtnExit" Content="Выйти" HorizontalAlignment="Right" Click="BtnExit_OnClick" />
+        </DockPanel>
+        
+        <DockPanel Grid.Row="1" HorizontalAlignment="Right" Margin="10">
+            <TextBlock Text="ФИО Пользователя" Name="TxtbFio" />
+        </DockPanel>
+        
+        <StackPanel Grid.Row="1"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    Margin="0 50 0 0"
+                    Width="400">
+        
+                <DockPanel>
+                    <Label Content="Фамилия" />
+                    <TextBox Watermark="Введите фамилию" Name="TxbLastname" Margin="40 0 0 0" />
+                </DockPanel>
+                <DockPanel Margin="0 10 0 0">
+                    <Label Content="Имя" />
+                    <TextBox Watermark="Введите имя" Name="TxbFirstname" Margin="75 0 0 0" />
+                </DockPanel>
+                <DockPanel Margin="0 10 0 0 ">
+                    <Label Content="Отчетсво" />
+                    <TextBox Watermark="Введите отчетсво" Name="TxbPatronymic" Margin="40 0 0 0" />
+                </DockPanel>
+                <DockPanel Margin="0 10 0 0 ">
+                    <Label Content="Пол" />
+                    <ComboBox Name="CmbGender" PlaceholderText="Пол" Margin="80 0 0 0" />
+                </DockPanel>
+                <DockPanel Margin="0 10 0 0 ">
+                    <Label Content="Должность" />
+                    <ComboBox PlaceholderText="Выберите роль" Name="CmbPosition" Margin="30 0 0 0" />
+                </DockPanel>
+                <Button Name="BtnLoadUSerPhoto" Content="Прикрепить фото" Margin="0 10 0 0 " />
+                <DockPanel Margin="0 50 0 0 " HorizontalAlignment="Center">
+                    <Button Name="BtnSave" Content="Сохранить" Click="BtnSave_OnClick" />
+                    <Button Name="BtnCancel" Content="Отменить" Margin="10 0 0 0 " Click="BtnCancel_OnClick" />
+                </DockPanel>
+            </StackPanel>
+        
+            
+        
+    </Grid>
+</UserControl>

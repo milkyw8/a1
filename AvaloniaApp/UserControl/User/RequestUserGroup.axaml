@@ -1,0 +1,216 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="1080"
+             x:Class="AvaloniaApp.UserControl.User.RequestUserGroup">
+    <Grid RowDefinitions="50, *, 25">
+
+        <DockPanel Grid.Row="0" Margin="10">
+            <Button Content="Назад" Click="Button_OnClick" />
+            <Label
+                Content="Форма записи на посещение мероприятия"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                FontSize="16"
+                FontWeight="Bold" />
+        </DockPanel>
+
+        <StackPanel Grid.Row="1">
+            <DockPanel Margin="10">
+                <Border
+                    BorderBrush="Gray"
+                    BorderThickness="1"
+                    CornerRadius="5"
+                    Margin="0 10 0 0 ">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label Content="Информация для пропуска"
+                                   HorizontalAlignment="Center" />
+                        </StackPanel>
+                        <StackPanel Margin="10">
+                            <Label Content="Срок действия заявки"
+                                   HorizontalAlignment="Center" />
+                            <DockPanel Margin="0 10 0 0 ">
+                                <TextBlock Text="с*" />
+                                <CalendarDatePicker Name="CldValidFrom" />
+                                <TextBlock Text="до" />
+                                <CalendarDatePicker Name="CldValidUntil" />
+                            </DockPanel>
+                            <StackPanel Margin="0 10 0 0 " HorizontalAlignment="Center">
+                                <Label Content="Цель посещения:" HorizontalAlignment="Center" />
+                                <ComboBox Name="CmbTargetVisit" Width="300" />
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+
+                <Border
+                    BorderBrush="Gray"
+                    BorderThickness="1"
+                    CornerRadius="5"
+                    Margin="10 10 0 0 ">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label Content="Информация для пропуска"
+                                   HorizontalAlignment="Center" />
+                        </StackPanel>
+                        <StackPanel Margin="10">
+                            <StackPanel>
+                                <Label Content="Принимающая сторона:" />
+                                <ComboBox Name="CmbSubdivision" Width="300"
+                                          SelectionChanged="CmbSubdivision_OnSelectionChanged" />
+                            </StackPanel>
+                            <StackPanel Margin="0 10 0 0 ">
+                                <Label Content="ФИО*:" />
+                                <DockPanel Height="30">
+                                    <TextBox Name="TxbEmployee" Width="300"
+                                             IsReadOnly="True" HorizontalAlignment="Left" />
+
+                                    <Image Source="/Assets/User.jpg"
+                                           Width="50"
+                                           Height="50"
+                                           VerticalAlignment="Center" />
+                                </DockPanel>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </DockPanel>
+
+            <DockPanel Height="400">
+
+                <Border Margin="10 10 0 0 "
+                        BorderBrush="Gray"
+                        BorderThickness="1"
+                        CornerRadius="5">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label Content="Информация о посетителе"
+                                   HorizontalAlignment="Center" />
+                        </StackPanel>
+
+                        <DockPanel Margin="10 10 0 0 ">
+                            <StackPanel Width="300">
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Фамилия*:" />
+                                    <TextBox Name="TxbLastname" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Имя*:" />
+                                    <TextBox Name="TxbFirstname" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Отчество:" />
+                                    <TextBox Name="TxbPatronymic" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Телефон:" />
+                                    <TextBox Name="TxbPhone" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="E-mail:" />
+                                    <TextBox Name="TxbEmail" Margin="10 0 0 0 " />
+                                </DockPanel>
+                            </StackPanel>
+
+                            <StackPanel Margin="30 0 0  0" Width="300">
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Организация:" />
+                                    <TextBox Name="TxbOrganization" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Примечание:" />
+                                    <TextBox Name="TxbComment" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Дата рождения:" />
+                                    <CalendarDatePicker Name="CdpBirthday" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Серия паспорта:" />
+                                    <TextBox Name="TxbPasportSeries" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <DockPanel Margin="0 10 0 0 ">
+                                    <TextBlock Text="Номер паспорта:" />
+                                    <TextBox Name="TxbPasportNumber" Margin="10 0 0 0 " />
+                                </DockPanel>
+                                <StackPanel VerticalAlignment="Bottom">
+                                    <Button Name="BtnAddVisitor"
+                                            Content="Добавить пользователя"
+                                            Margin="0 50 0 0"
+                                            HorizontalAlignment="Right"
+                                            Click="BtnAddVisitor_OnClick" />
+
+                                </StackPanel>
+                            </StackPanel>
+
+                        </DockPanel>
+                    </StackPanel>
+                </Border>
+
+                <Border Margin="10 10 0 0 "
+                        BorderBrush="Gray"
+                        BorderThickness="1"
+                        CornerRadius="5">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label Content="Список посетителей" HorizontalAlignment="Center" />
+                        </StackPanel>
+                        <DockPanel Margin="10">
+                            <Button Name="BtnLoadListVisitorUser"
+                                    Content="Загрузить список" />
+                            <Button Name="BtnDownloadTemplateListVisitorUser"
+                                    Content="Скачать шаблон списка" Margin="10 0 0 0 " />
+                        </DockPanel>
+                        <DataGrid
+                            Name="DgVisitorGroup"
+                            AutoGenerateColumns="False"
+                            IsReadOnly="True"
+                            Background="White"
+                            AlternatingRowBackground="LightGray">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Id" Width="*" Binding="{Binding Id}" />
+                                <DataGridTextColumn Header="Фамилия" Width="*" Binding="{Binding Lastname}" />
+                                <DataGridTextColumn Header="Имя" Width="*" Binding="{Binding Firstname}" />
+                                <DataGridTextColumn Header="Отчетсво" Width="*" Binding="{Binding Patronymic}" />
+                                <DataGridTextColumn Header="Контакты" Width="*" Binding="{Binding Phone}" />
+                                <DataGridTemplateColumn Header="Фото" Width="*">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Name="BtnAddUserPhoto"
+                                                    Content="Загрузить" />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                </Border>
+            </DockPanel>
+
+            <DockPanel Width="800" HorizontalAlignment="Left">
+                <Border Margin="10 10 0 0 "
+                        BorderBrush="Gray"
+                        BorderThickness="1"
+                        CornerRadius="5">
+                    <StackPanel>
+                        <StackPanel Background="Orange">
+                            <Label Content="Прикрпепляеммые документы" HorizontalAlignment="Center" />
+                        </StackPanel>
+                        <Button Name="BtnSendFile" Content="Загрузить файл" HorizontalAlignment="Center" />
+                    </StackPanel>
+                </Border>
+
+                <DockPanel HorizontalAlignment="Right" VerticalAlignment="Center">
+                    <Button Name="BtnClearForm" Content="Очистить форму" Click="BtnClearForm_OnClick" />
+                    <Button Name="BtnCreateRequest" Content="Оформить заявку"
+                            Margin="10 0 0  0 "
+                            Background="Orange"
+                            Click="BtnCreateRequest_OnClick" />
+                </DockPanel>
+            </DockPanel>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

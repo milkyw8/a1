@@ -1,0 +1,69 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApp.UserControl.AuthControl">
+    <Grid
+        RowDefinitions="50, *, 25">
+        <StackPanel Grid.Row="0"
+                    Margin="10">
+            <Label
+                Content="Авторизация"
+                FontWeight="Bold"
+                FontSize="18" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1"
+                    Orientation="Vertical"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Margin="0 10 0 0">
+
+            <Label>Тип пользователя</Label>
+            <ComboBox Name="CmbItmRole" Width="260"
+                      Margin="0 0 0 0"
+                      SelectionChanged="CmbItmRole_OnSelectionChanged"
+                      PlaceholderText="Тип пользователя" />
+
+            <StackPanel Name="SpUser">
+                <Button
+                    Name="BtnUserSendRequest"
+                    Content="Оформить заявку"
+                    Background="Black"
+                    Foreground="White"
+                    HorizontalAlignment="Center"
+                    Margin="0 10 0  0 "
+                    Click="BtnUserSendRequest_OnClick" />
+            </StackPanel>
+
+            <StackPanel Name="SpAdmin">
+                <TextBox Name="TxbLogin" Watermark="Логин" Margin="0 10 0 0" />
+                <TextBox Name="TxbPassword" Watermark="Пароль" Margin="0 10 0 0" />
+                <TextBox Name="TxbSecretWordAdmin" Watermark="Секретное слово" Margin="0 10 0 0" />
+                <Button
+                    Name="BtnSignUpAdmin"
+                    Content="Войти в систему"
+                    Background="Black"
+                    Foreground="White"
+                    HorizontalAlignment="Center"
+                    Margin="0 10 0 0"
+                    Click="BtnSignUpAdmin_OnClick" />
+            </StackPanel>
+
+
+            <StackPanel Name="SpDefault">
+                <TextBox Name="TxbSecretWord" Watermark="Секретное слово" Margin="0 10 0 0" />
+                <Button
+                    Name="BtnSignUp"
+                    Content="Войти в систему"
+                    Background="Black"
+                    Foreground="White"
+                    HorizontalAlignment="Center"
+                    Margin="0 10 0 0 "
+                    Click="BtnSignUp_OnClick" />
+            </StackPanel>
+            
+        </StackPanel>
+    </Grid>
+</UserControl>

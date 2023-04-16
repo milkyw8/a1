@@ -1,0 +1,12 @@
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/bin/Debug/net7.0/SF2022UserNNLib.deps.json
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/bin/Debug/net7.0/SF2022UserNNLib.dll
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/bin/Debug/net7.0/SF2022UserNNLib.pdb
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.csproj.AssemblyReference.cache
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.AssemblyInfoInputs.cache
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.AssemblyInfo.cs
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.csproj.CoreCompileInputs.cache
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.dll
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/refint/SF2022UserNNLib.dll
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/SF2022UserNNLib.pdb
+/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/Debug/net7.0/ref/SF2022UserNNLib.dll

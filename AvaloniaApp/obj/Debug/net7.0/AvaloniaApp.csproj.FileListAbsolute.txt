@@ -1,0 +1,626 @@
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.deps.json
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.runtimeconfig.json
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.pdb
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Animation.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Base.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesktopRuntime.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Input.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Interactivity.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Layout.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Styling.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Default.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Visuals.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaEdit.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Native.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.X11.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Humanizer.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/JetBrains.Annotations.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.SyntaxHigh.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/MessageBox.Avalonia.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/MySqlConnector.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/SkiaSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/System.CodeDom.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/System.Reactive.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Tmds.DBus.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x64/native/av_libglesv2.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x86/native/av_libglesv2.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.AssemblyReference.cache
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfoInputs.cache
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfo.cs
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CoreCompileInputs.cache
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CopyComplete
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/refint/AvaloniaApp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.pdb
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.genruntimeconfig.cache
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/ref/AvaloniaApp.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/DynamicData.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ReactiveUI.dll
+/home/master/РЧ/Progs/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Splat.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.AssemblyReference.cache
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfoInputs.cache
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfo.cs
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CoreCompileInputs.cache
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/refint/AvaloniaApp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.pdb
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.exe
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.deps.json
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.runtimeconfig.json
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.pdb
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Animation.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Base.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesktopRuntime.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Dialogs.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Input.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Interactivity.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Layout.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.MicroCom.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.OpenGL.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Styling.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Default.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Visuals.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaEdit.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Desktop.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Native.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Skia.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Win32.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.X11.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/DynamicData.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/HarfBuzzSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Humanizer.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/JetBrains.Annotations.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.SyntaxHigh.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/MessageBox.Avalonia.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/MySqlConnector.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ReactiveUI.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/SkiaSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Splat.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/System.CodeDom.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/System.Reactive.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/Tmds.DBus.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x64/native/av_libglesv2.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x86/native/av_libglesv2.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CopyComplete
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.genruntimeconfig.cache
+C:/777_Mike_777/РЧ/application/AvaloniaApp/obj/Debug/net7.0/ref/AvaloniaApp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.deps.json
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.runtimeconfig.json
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.pdb
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Animation.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Base.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesktopRuntime.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Input.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Interactivity.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Layout.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Styling.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Default.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Visuals.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/AvaloniaEdit.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Native.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Avalonia.X11.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/DynamicData.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Humanizer.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/JetBrains.Annotations.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.SyntaxHigh.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/MessageBox.Avalonia.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/MySqlConnector.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ReactiveUI.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/SkiaSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Splat.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/System.CodeDom.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/System.Reactive.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/Tmds.DBus.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x64/native/av_libglesv2.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x86/native/av_libglesv2.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.AssemblyReference.cache
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfoInputs.cache
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfo.cs
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CoreCompileInputs.cache
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CopyComplete
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/refint/AvaloniaApp.dll
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.pdb
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.genruntimeconfig.cache
+/home/mas/Рабочий стол/Project/application/AvaloniaApp/obj/Debug/net7.0/ref/AvaloniaApp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.deps.json
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.runtimeconfig.json
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaApp.pdb
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Animation.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Base.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.DesktopRuntime.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Input.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Interactivity.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Layout.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Styling.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Default.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Visuals.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/AvaloniaEdit.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Native.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Avalonia.X11.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/DynamicData.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Humanizer.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/JetBrains.Annotations.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.SyntaxHigh.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ColorTextBlock.Avalonia.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Markdown.Avalonia.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/MessageBox.Avalonia.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/MySqlConnector.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ReactiveUI.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/SkiaSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Splat.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/System.CodeDom.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/System.Reactive.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/Tmds.DBus.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x64/native/av_libglesv2.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win7-x86/native/av_libglesv2.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.AssemblyReference.cache
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfoInputs.cache
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.AssemblyInfo.cs
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CoreCompileInputs.cache
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.csproj.CopyComplete
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/refint/AvaloniaApp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.pdb
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/AvaloniaApp.genruntimeconfig.cache
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/Debug/net7.0/ref/AvaloniaApp.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/SF2022UserNNLib.dll
+/home/master/РЧ/AvaloniaApp/AvaloniaApp/bin/Debug/net7.0/SF2022UserNNLib.pdb

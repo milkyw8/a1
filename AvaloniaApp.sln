@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApp", "AvaloniaApp\AvaloniaApp.csproj", "{A942E9B0-EB89-4126-893F-47AFD59B3B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF2022UserNNLib", "SF2022UserNNLib\SF2022UserNNLib.csproj", "{10386F8A-D43B-4EBC-A9C4-ED19E214BA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibaryTesting", "LibaryTesting\LibaryTesting.csproj", "{AE52CC9A-D088-452B-9F5C-EA7672CB0A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A942E9B0-EB89-4126-893F-47AFD59B3B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A942E9B0-EB89-4126-893F-47AFD59B3B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A942E9B0-EB89-4126-893F-47AFD59B3B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A942E9B0-EB89-4126-893F-47AFD59B3B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10386F8A-D43B-4EBC-A9C4-ED19E214BA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10386F8A-D43B-4EBC-A9C4-ED19E214BA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10386F8A-D43B-4EBC-A9C4-ED19E214BA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10386F8A-D43B-4EBC-A9C4-ED19E214BA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE52CC9A-D088-452B-9F5C-EA7672CB0A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE52CC9A-D088-452B-9F5C-EA7672CB0A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE52CC9A-D088-452B-9F5C-EA7672CB0A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE52CC9A-D088-452B-9F5C-EA7672CB0A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
