@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "09USSJDT00u/j3nUBKC7p3AU325swtoop+g6LboMJtD4u5oyHGK/ZzG5Zd+pjMh7anKlqgSjrzrD7k76W/v4ZA==",
+  "dgSpecHash": "5IZ6VQ1HY2m8E1McUlbmLXx6JYk+F/BFgEV0N59jwsrnxIc67/vbhxcr02H33cPjiKVheg31tqw0hoLsoR3jKA==",
   "success": true,
-  "projectFilePath": "/home/master/РЧ/AvaloniaApp/LibaryTesting/LibaryTesting.csproj",
+  "projectFilePath": "/home/master/РЧ/a1/LibaryTesting/LibaryTesting.csproj",
   "expectedPackageFiles": [
     "/home/master/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/master/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wTI/OQj0iJ95NWrBjep8itIz7u9mwdmBB0TYUe1T6qkPpwPi5y4WTxG8xuTaAFy+VD7rQo4/qZ5UGBGzoBNZKg==",
+  "dgSpecHash": "cXprNi494JDamUC0aQDsUY4AH1oreCTmXC8w/gCbhV6Lq3Umq9oijNjHKnedxBsGzZkstHUFJjmg9xNTRld0SQ==",
   "success": true,
-  "projectFilePath": "/home/master/РЧ/AvaloniaApp/AvaloniaApp/AvaloniaApp.csproj",
+  "projectFilePath": "/home/master/РЧ/a1/AvaloniaApp/AvaloniaApp.csproj",
   "expectedPackageFiles": [
     "/home/master/.nuget/packages/avalonia/0.10.18/avalonia.0.10.18.nupkg.sha512",
     "/home/master/.nuget/packages/avalonia.angle.windows.natives/2.1.0.2020091801/avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",

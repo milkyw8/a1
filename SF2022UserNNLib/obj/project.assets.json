@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+      "projectUniqueName": "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj",
       "projectName": "SF2022UserNNLib",
-      "projectPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+      "projectPath": "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj",
       "packagesPath": "/home/master/.nuget/packages/",
-      "outputPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/",
+      "outputPath": "/home/master/РЧ/a1/SF2022UserNNLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/master/.nuget/NuGet/NuGet.Config"

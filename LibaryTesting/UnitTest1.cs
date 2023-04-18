@@ -2,13 +2,15 @@ using SF2022UserNNLib;
 
 namespace LibaryTesting;
 
-
+/// <summary>
+/// Класс с тестами для тестирования билиотеки
+/// </summary>
 public class UnitTest1
 {
     [Fact]
     public void Method1()
     {
-        // Arrange
+        // Данные
         TimeSpan[] startTimes = { };
         int[] durations = { };
         var beginWorkingTime = new TimeSpan(8, 0, 0);
@@ -16,11 +18,11 @@ public class UnitTest1
         int consultationTime = 30;
         var expected = new[] { "08:00-17:30" };
 
-        // Act
+        // вызов метода
         var actual =
             Calculations.AvailablePeriods(startTimes, durations, beginWorkingTime, endWorkingTime, consultationTime);
 
-        // Assert
+        // Проверка результата
         Assert.Equal(expected, actual);
 
     }

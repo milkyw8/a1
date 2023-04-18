@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/master/РЧ/AvaloniaApp/LibaryTesting/LibaryTesting.csproj",
+      "projectUniqueName": "/home/master/РЧ/a1/LibaryTesting/LibaryTesting.csproj",
       "projectName": "LibaryTesting",
-      "projectPath": "/home/master/РЧ/AvaloniaApp/LibaryTesting/LibaryTesting.csproj",
+      "projectPath": "/home/master/РЧ/a1/LibaryTesting/LibaryTesting.csproj",
       "packagesPath": "/home/master/.nuget/packages/",
-      "outputPath": "/home/master/РЧ/AvaloniaApp/LibaryTesting/obj/",
+      "outputPath": "/home/master/РЧ/a1/LibaryTesting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/master/.nuget/NuGet/NuGet.Config"
@@ -6154,8 +6154,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj": {
-              "projectPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj"
+            "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj": {
+              "projectPath": "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj"
             }
           }
         }

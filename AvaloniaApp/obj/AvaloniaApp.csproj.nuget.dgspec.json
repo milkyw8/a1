@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/master/РЧ/AvaloniaApp/AvaloniaApp/AvaloniaApp.csproj": {}
+    "/home/master/РЧ/a1/AvaloniaApp/AvaloniaApp.csproj": {}
   },
   "projects": {
-    "/home/master/РЧ/AvaloniaApp/AvaloniaApp/AvaloniaApp.csproj": {
+    "/home/master/РЧ/a1/AvaloniaApp/AvaloniaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/master/РЧ/AvaloniaApp/AvaloniaApp/AvaloniaApp.csproj",
+        "projectUniqueName": "/home/master/РЧ/a1/AvaloniaApp/AvaloniaApp.csproj",
         "projectName": "AvaloniaApp",
-        "projectPath": "/home/master/РЧ/AvaloniaApp/AvaloniaApp/AvaloniaApp.csproj",
+        "projectPath": "/home/master/РЧ/a1/AvaloniaApp/AvaloniaApp.csproj",
         "packagesPath": "/home/master/.nuget/packages/",
-        "outputPath": "/home/master/РЧ/AvaloniaApp/AvaloniaApp/obj/",
+        "outputPath": "/home/master/РЧ/a1/AvaloniaApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/master/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj": {
-                "projectPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj"
+              "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj": {
+                "projectPath": "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj": {
+    "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+        "projectUniqueName": "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj",
         "projectName": "SF2022UserNNLib",
-        "projectPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/SF2022UserNNLib.csproj",
+        "projectPath": "/home/master/РЧ/a1/SF2022UserNNLib/SF2022UserNNLib.csproj",
         "packagesPath": "/home/master/.nuget/packages/",
-        "outputPath": "/home/master/РЧ/AvaloniaApp/SF2022UserNNLib/obj/",
+        "outputPath": "/home/master/РЧ/a1/SF2022UserNNLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/master/.nuget/NuGet/NuGet.Config"
